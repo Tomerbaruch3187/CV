@@ -1,0 +1,42 @@
+
+  body {
+    background-color: #BBBBBB;
+    text-align: center;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    height: 0;
+    border-color: #FAFAFA;
+    border-width: 7px;
+    width:5%;
+  }
+
+  img {
+    height:250px
+
+  }
+
+  li {
+    width: 300px
+  }
+
+  input {
+    background-color: #BBBBBB;
+    border: 1px solid black;
+    border-radius: 7px;
+    margin-bottom: 6px;
+
+  }
+
+  input:hover {
+    background-color: #F2EFEA;
+  }
+
+  textarea {
+    background-color: #F2EFEA;
+    height: 200px;
+    width: 500px;
+
+  }
